@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Natsuko&#39;s Daily Adventures in Nepal</title>
-    <description>A simple yet classy theme for your Jekyll website or blog.
-</description>
-    <link>http://bencentra.github.io/</link>
-    <atom:link href="http://bencentra.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 18 Aug 2016 10:03:31 +0545</pubDate>
-    <lastBuildDate>Thu, 18 Aug 2016 10:03:31 +0545</lastBuildDate>
+    <title>Natsuko&#39;s Blog</title>
+    <description>Natsuko&#39;s Daily Adventures in Nepal</description>
+    <link>http://naztshinozaki.github.io/</link>
+    <atom:link href="http://naztshinozaki.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 18 Aug 2016 10:34:10 +0545</pubDate>
+    <lastBuildDate>Thu, 18 Aug 2016 10:34:10 +0545</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -40,8 +39,8 @@ Since we are already one-month in, i’m going to give a quick run down what wen
 &lt;li&gt;I had a five minute conversation with the shop owner in Nepali, of which I understood about 60%. Progress! &lt;/li&gt;&lt;/ul&gt;
 </description>
         <pubDate>Tue, 16 Aug 2016 00:00:00 +0545</pubDate>
-        <link>http://bencentra.github.io/2016/08/16/First-Blog-Post.html</link>
-        <guid isPermaLink="true">http://bencentra.github.io/2016/08/16/First-Blog-Post.html</guid>
+        <link>http://naztshinozaki.github.io/2016/08/16/First-Blog-Post.html</link>
+        <guid isPermaLink="true">http://naztshinozaki.github.io/2016/08/16/First-Blog-Post.html</guid>
         
         
       </item>

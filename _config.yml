@@ -8,11 +8,11 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Natsuko's Daily Adventures in Nepal
+title: Natsuko's Blog
 email: naztshinozaki@gmail.com
 name: Natsuko Shinozaki
-description: >
-  A simple yet classy theme for your Jekyll website or blog.
+description: Natsuko's Daily Adventures in Nepal
+
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
