@@ -18,7 +18,7 @@ description: >
 # root of your server.
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://bencentra.github.io" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
+cover: "/assets/coverphoto.jpg"
 logo: "/assets/logo.png"
 
 # Build settings
