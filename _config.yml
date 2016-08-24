@@ -3,6 +3,8 @@
 gems:
   - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
+  - jekyll-seo-tag
+
 
 exclude:
   - "/vendor/"

@@ -2,6 +2,8 @@
 layout: post
 title:  "What I learned So Far About Starting Up a Startup"
 author: "Natsuko"
+description: "What I learned So Far About Starting Up a Startup in a Foreign Country"
+image: /images/withpreshank.jpg
 ---
 
 
