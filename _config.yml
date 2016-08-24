@@ -19,7 +19,7 @@ description: Natsuko's Daily Adventures in Nepal
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 
 url: "http://naztshinozaki.github.io" # the base hostname & protocol for your site
-cover: "/assets/coverphoto.jpg"
+cover: "/assets/withpreshank.jpg"
 
 logo: "/assets/logo.png"
 
