@@ -33,7 +33,7 @@ There were so many factors that were interrelated to constructing this discrepan
 
 <strong>1.	To inspire the students to apply their skills to the real world, and motivate them to pursue further with academics at school </strong>
 
-<strong>2.	Help them become real problem solvers through curriculum design (e.g. flash cards, self-directed lessons etc.) and providing more opportunities to work on real live projects </strong>
+<strong>2.	Help them become real problem solvers through curriculum design (you can learn more about the TECHRISE learning system though this  <a href="http://www.techrise.me/posts/how-techrise-creates-superstar-coders">  blog </a>) and providing more opportunities to work on real live projects </strong>
 
 
 
