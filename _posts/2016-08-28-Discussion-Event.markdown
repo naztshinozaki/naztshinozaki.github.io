@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Gap Between the Job Market and Higer Education in the IT Field"
+title:  "The Gap Between the Job Market and Higher Education in the IT Field"
 author: "Natsuko"
 ---
 
