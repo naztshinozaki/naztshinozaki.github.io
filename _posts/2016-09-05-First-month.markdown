@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Our first 30 days - The Sprint"
+title:  "Our First 30 Days Sprinting"
 author: "Natsuko"
 ---
 
