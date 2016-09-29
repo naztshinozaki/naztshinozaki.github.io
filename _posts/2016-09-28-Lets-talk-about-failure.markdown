@@ -14,7 +14,7 @@ It’s actually pretty terrifying.
 <img src="/assets/fail.gif" style="height:330px; width:450px;">
 <br>
 So let me tell you a bit about our first encounter with failure. 
-<br>Basically, first month into our official launch of our business, we had near zero paying students.<br>
+<br>Basically, first month into our official launch of our business, we had near **zero paying students**.<br>
 Getting the first paying customer is hard for any business.<br>
 *It was no exception for us.*<br>
 Ever since we released our pricing page at 2 months for 15,000 NPR (approx 150 USD) around mid august, we were acquiring zero actual students. Even after reducing the price to a promotional 12,000NPR (approx 120 USD), the prospects didn’t look very promising. Sure we were capturing lots of attention; people seemed to like us on facebook, people were signing up, but *that didn’t mean that people were ready to hand over cash.*
@@ -22,8 +22,7 @@ About 3 weeks after we launched the pricing page, we begin to sense that *someth
 But one day, it was blurted out. <br>
 **<i>Perhaps it was priced too high</i>**.<br>
  Now it was out there in the open, it was almost too obvious - **the tuition was too expensive**. It wasn’t that there weren’t any other similar tutoring institutions priced similarly, but really, who was going to trust us with such an amount (considering that the average monthly disposable income was 21,444 NPR (approx 200 USD)?) We were hardly known, and we weren’t yet at that point where we could prove that learning with us was a worthwhile investment. **We were trying to compete head to head with the top tier training institutes.** 
-
- <br>
+<br>
 
 There, we **named our problem**. Now that we acknowledged our failure, we had to somehow make it right  - we had to take our first step to growth. <br>
 We had to find a **viable solution to our problem**.<br>
