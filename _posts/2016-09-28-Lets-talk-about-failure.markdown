@@ -47,10 +47,10 @@ Okay, now that was pretty negative. But the real question here is, **how can we 
 One important point I think is to **involve everyone in the discussion process when making critical decisions for the company.** Obviously, this is going to be difficult when the company becomes larger, but by letting people take a stand in the decision, they would most likely take greater responsibility over what they set out to do, and actually try to make things work. Another is to **focus the team on the positive aspects.** Celebrate small wins, and make sure there are positive outcomes that can keep the team’s spirit up. Making sure that there is tangible progress that can be celebrated however, requires deliberate engineering by the leader. Another is just to **be confident.** If you are a leader in the position of making decisions, sometimes you just have to have faith in your choices - or at least display that you do. I think sometimes the best way to override everyone’s uncertainty is to pretend that you  know what you are doing. 
 <br>
 
-The point of failure in startups I think, is to make sure that you can **learn from your mistakes as quickly as possible.** So in the future you can sniff out any possible similar pitfalls, or if you do face into another failure trap, you and your team can be **more responsive towards it**. It will be easier for us to pick ourselves up, in any kind of situation. 
+The point of failure in startups I think, is to make sure that you can **learn from your mistakes as quickly as possible.** So in the future you can sniff out any possible similar pitfalls, or if you do fall into another failure trap, you and your team can be **more responsive towards it**. It will be easier for us to pick ourselves up, in any kind of situation. 
 <br>
 
-Once we go beyond our fears, i’m sure we will be able to embrace failure in a way that will allow us to grow. Turning failure into positive energy definitely needs some will power and practice, but I think keeping at it is the responsibility of any leader in the organization. 
+Once we go beyond our fears, i’m sure we will be able to embrace failure in a way that will allow us to grow. Turning failure into positive energy definitely needs some will power and practice, but I think keeping at it is key to the success of any kind of startup or organization. 
 
 
 
