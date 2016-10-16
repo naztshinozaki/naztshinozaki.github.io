@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://naztshinozaki.github.io/2016/10/16/product:market-fit.html</loc>
+<lastmod>2016-10-16T00:00:00+05:45</lastmod>
+</url>
+<url>
 <loc>http://naztshinozaki.github.io/2016/10/04/Productivity-Hacks.html</loc>
 <lastmod>2016-10-04T00:00:00+05:45</lastmod>
 </url>
@@ -71,5 +75,14 @@
 </url>
 <url>
 <loc>http://naztshinozaki.github.io/posts/</loc>
+</url>
+<url>
+<loc>http://naztshinozaki.github.io/page2/</loc>
+</url>
+<url>
+<loc>http://naztshinozaki.github.io/page3/</loc>
+</url>
+<url>
+<loc>http://naztshinozaki.github.io/page4/</loc>
 </url>
 </urlset>
