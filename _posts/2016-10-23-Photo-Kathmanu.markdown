@@ -8,6 +8,8 @@ author: "Natsuko"
 Today I had the opportunity to attend a panel discussions titled  *“Moving Asia”* -  a dialogue surrounding migration in South Asia through the eyes of photojournalists. This panel discussion was among the many events held throughout the week as part of the Photo Kathmandu initiative, the only international photography festival in Nepal. Throughout this 14 day long festival, there were photo exhibitions in various venues around the city, and different talks, workshops, slideshows were being organised, all with the intent to spur a conversation between the locals and the visual storytellers.  I attended the session today, eager to learn how contemporary migration in South Asia was perceived and comprehended by local journalists. 
 <br>
 
+<img src="/assets/photoktm.jpg" style="height:440px; width:600px;">
+
 2016 was a year that sparked up much debate on the “Global Migration Crisis”. I was among the many others who watched from the safety of their homes, the horror unraveling as civilians endured unimaginable journeys risking their lives to flee their country, only to be met most of the time by unwelcoming faces on the other end. The migration crisis that sprung up mostly in the middle east, has largely affected some of the other major political events this year, such as the presidential campaign of the US and the BREXIT of the UK.
 <br>
 
